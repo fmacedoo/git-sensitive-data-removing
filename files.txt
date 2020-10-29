@@ -1,0 +1,2 @@
+conf/appsettings.json mysupersecuresecret
+conf/config.js mysupersecuresecret anothersupersecuresecret
